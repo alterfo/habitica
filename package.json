@@ -226,7 +226,7 @@
     "sinon-stub-promise": "^4.0.0",
     "superagent-defaults": "^0.1.13",
     "vinyl-transform": "^1.0.0",
-    "webpack-bundle-analyzer": "^2.2.1",
+    "webpack-bundle-analyzer": "^3.8.0",
     "webpack-dev-middleware": "^1.10.0",
     "webpack-hot-middleware": "^2.6.1"
   }
